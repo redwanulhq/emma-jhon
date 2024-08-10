@@ -1,0 +1,19 @@
+.logo {
+     text-align: center;
+     padding: 20px 0;
+ }
+.logo img {
+     width: 300px;
+ }
+ nav {
+     background-color: #222;
+ }
+ .menu a {
+     text-decoration: none;
+     color: white;
+     padding: 15px;
+     display: inline-block;
+ }
+ .menu a:hover {
+     background-color: #444;
+ }
